@@ -1,9 +1,14 @@
 {
     "java.project.sourcePaths": [
+        "19. Interface Implementation",
+        "18. Inheritance Example",
+        "17. Class and Object Creation",
+        "16. Palindrome Checker",
+        "15. String Reversal",
         "14. Array Sum and Average",
         "13. Recursive Fibonacci",
         "12. Method Overloading",
         "11. Factorial Calculator",
-        "15. String Reversal"
+        "20. Try-Catch Example"
     ]
 }
